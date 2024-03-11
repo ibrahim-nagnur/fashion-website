@@ -1,6 +1,6 @@
-##[Live Demo](https://ibrahim-nagnur.github.io/fashion-website/)
+## [Live Demo](https://ibrahim-nagnur.github.io/fashion-website/)
 
-👗 ##Beautiful Fashion Website** 🌟
+## 👗 Beautiful Fashion Website 🌟
 
 💃 Embrace the world of fashion with **Fashiony** its a pixel-perfect, responsive, and animated website crafted with HTML, CSS, Bootstrap, and JavaScript.
 
